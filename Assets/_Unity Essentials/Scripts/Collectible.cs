@@ -21,15 +21,10 @@ public class Collectible : MonoBehaviour
     }
 
     private void OnTriggerEnter(Collider other) {
+        if (other.CompareTag("Player")) {
+            // Destroy The Collectible 
+            Destroy(gameObject); 
+            //Instantiate the effect 
+            Instantiate(onCollectEffect, transform.position, transform.rotation); } }
 
-        if(other.CompareTag("Player")) {
-            // Destroy The Collectible
-            Destroy(gameObject);
-
-            //Instantiate the effect
-            Instantiate(onCollectEffect, transform.position, transform.rotation);
         }
-
-    }
-
-}
