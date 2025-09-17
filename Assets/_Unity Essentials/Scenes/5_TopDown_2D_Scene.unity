@@ -248,7 +248,7 @@ SpriteRenderer:
   m_SortingOrder: 11
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.33962262, g: 0.25792095, b: 0.25792095, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -950,7 +950,7 @@ SpriteRenderer:
   m_SortingOrder: 11
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.33962262, g: 0.25792095, b: 0.25792095, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -1828,7 +1828,7 @@ SpriteRenderer:
   m_SortingOrder: 11
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.33962262, g: 0.25792095, b: 0.25792095, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -2709,7 +2709,7 @@ Transform:
   m_LocalRotation: {x: -0, y: -0, z: -0.8595224, w: 0.511098}
   m_LocalPosition: {x: 6.68, y: -3.49, z: 0}
   m_LocalScale: {x: 1.1010102, y: 1.1010102, z: 1.1010102}
-  m_ConstrainProportionsScale: 1
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -118.526}
@@ -3901,7 +3901,7 @@ SpriteRenderer:
   m_SortingOrder: 11
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.33962262, g: 0.25792095, b: 0.25792095, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
