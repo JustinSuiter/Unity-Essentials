@@ -75,11 +75,15 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   controlID: 110
 =======
   controlID: 108
 >>>>>>> 2dEssentials
+=======
+  controlID: 108
+>>>>>>> Stashed changes
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -124,10 +128,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     width: 300
     height: 675
 =======
+=======
+>>>>>>> Stashed changes
     width: 355
     height: 638
 >>>>>>> 2dEssentials
@@ -260,11 +267,15 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   controlID: 42
 =======
   controlID: 44
 >>>>>>> 2dEssentials
+=======
+  controlID: 44
+>>>>>>> Stashed changes
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -290,11 +301,15 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   controlID: 43
 =======
   controlID: 45
 >>>>>>> 2dEssentials
+=======
+  controlID: 45
+>>>>>>> Stashed changes
   draggingID: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -311,6 +326,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 300
     y: 0
@@ -319,6 +335,10 @@ MonoBehaviour:
 =======
     x: 355
     y: 0
+=======
+    x: 355
+    y: 0
+>>>>>>> Stashed changes
     width: 888
     height: 638
 >>>>>>> 2dEssentials
@@ -351,11 +371,14 @@ MonoBehaviour:
     m_TextWithWhitespace: "Tutorials\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 1621
     y: 79
     width: 298
 =======
+=======
+>>>>>>> Stashed changes
     x: 1507
     y: 79
     width: 412
@@ -395,11 +418,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     y: 754
     width: 1358
     height: 232
 =======
+=======
+>>>>>>> Stashed changes
     y: 717
     width: 1242
     height: 269
@@ -442,6 +468,7 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 252}
     m_SelectedIDs: bca90000
@@ -454,12 +481,17 @@ MonoBehaviour:
     m_LastClickedID: 43638
     m_ExpandedIDs: 
 =======
+=======
+>>>>>>> Stashed changes
     scrollPos: {x: 0, y: 175}
     m_SelectedIDs: 92b60000
     m_LastClickedID: 46738
     m_ExpandedIDs: 0000000084a7000086a7000088a700008aa700008ca7000090aa000094aa000098aa000000ca9a3bffffff7f
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 >>>>>>> 2dEssentials
+=======
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -551,11 +583,14 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 1359
     y: 79
     width: 260
 =======
+=======
+>>>>>>> Stashed changes
     x: 1243
     y: 79
     width: 262
@@ -609,10 +644,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 79
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     width: 299
     height: 649
 =======
+=======
+>>>>>>> Stashed changes
     width: 354
     height: 612
 >>>>>>> 2dEssentials
@@ -630,6 +668,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       m_SelectedIDs: 6cf70000
       m_LastClickedID: 63340
@@ -639,6 +678,11 @@ MonoBehaviour:
       m_LastClickedID: -57126
       m_ExpandedIDs: d020ffffda20ffff1e29ffffdce9ffffd4eeffffecfaffff
 >>>>>>> 2dEssentials
+=======
+      m_SelectedIDs: da20ffff
+      m_LastClickedID: -57126
+      m_ExpandedIDs: d020ffffda20ffff1e29ffffdce9ffffd4eeffffecfaffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -685,12 +729,15 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 300
     y: 79
     width: 1057
     height: 649
 =======
+=======
+>>>>>>> Stashed changes
     x: 355
     y: 79
     width: 886
@@ -1182,6 +1229,7 @@ MonoBehaviour:
       size: {x: 0, y: 0}
       sizeOverridden: 0
     - dockPosition: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       containerId: Floating
       displayed: 1
@@ -1196,11 +1244,20 @@ MonoBehaviour:
       displayed: 1
       id: SceneView/CamerasOverlay
       index: 0
+=======
+      containerId: overlay-toolbar__right
+      displayed: 1
+      id: SceneView/CamerasOverlay
+      index: 0
+>>>>>>> Stashed changes
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":-254.0,"y":-184.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 1
       snapOffset: {x: -254, y: -184}
+<<<<<<< Updated upstream
 >>>>>>> 2dEssentials
+=======
+>>>>>>> Stashed changes
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       layout: 4
@@ -1247,6 +1304,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_Target: {x: 0.06956668, y: 0.13886666, z: 5.5528145}
     speed: 2
@@ -1256,6 +1314,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -1.1323862, y: -0.85866797, z: 0.011917212}
 >>>>>>> 2dEssentials
+=======
+    m_Target: {x: -1.1323862, y: -0.85866797, z: 0.011917212}
+    speed: 2
+    m_Value: {x: -1.1323862, y: -0.85866797, z: 0.011917212}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1301,6 +1364,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_Target: {x: 0.09984688, y: 0.008963112, z: -0.00012498407, w: 0.99496245}
     speed: 2
@@ -1318,6 +1382,15 @@ MonoBehaviour:
     speed: 2
     m_Value: 8.375143
 >>>>>>> 2dEssentials
+=======
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 8.375143
+    speed: 2
+    m_Value: 8.375143
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1335,11 +1408,15 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   m_LastSceneViewRotation: {x: 0.13505945, y: 0.34997186, z: -0.051068857, w: 0.925567}
 =======
   m_LastSceneViewRotation: {x: 0.00043825957, y: 0.9982624, z: -0.058465093, w: 0.0074871075}
 >>>>>>> 2dEssentials
+=======
+  m_LastSceneViewRotation: {x: 0.00043825957, y: 0.9982624, z: -0.058465093, w: 0.0074871075}
+>>>>>>> Stashed changes
   m_LastSceneViewOrtho: 0
   m_Viewpoint:
     m_SceneView: {fileID: 17}
@@ -1377,6 +1454,7 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     x: 300
     y: 79
@@ -1385,6 +1463,10 @@ MonoBehaviour:
 =======
     x: 355
     y: 79
+=======
+    x: 355
+    y: 79
+>>>>>>> Stashed changes
     width: 886
     height: 612
 >>>>>>> 2dEssentials
@@ -1405,11 +1487,15 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< Updated upstream
 <<<<<<< HEAD
   m_TargetSize: {x: 1057, y: 595}
 =======
   m_TargetSize: {x: 886, y: 498}
 >>>>>>> 2dEssentials
+=======
+  m_TargetSize: {x: 886, y: 498}
+>>>>>>> Stashed changes
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1424,17 +1510,23 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< Updated upstream
 <<<<<<< HEAD
     m_HBaseRangeMin: -528.5
     m_HBaseRangeMax: 528.5
     m_VBaseRangeMin: -297.5
     m_VBaseRangeMax: 297.5
 =======
+=======
+>>>>>>> Stashed changes
     m_HBaseRangeMin: -443
     m_HBaseRangeMax: 443
     m_VBaseRangeMin: -249
     m_VBaseRangeMax: 249
+<<<<<<< Updated upstream
 >>>>>>> 2dEssentials
+=======
+>>>>>>> Stashed changes
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1452,23 +1544,30 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       width: 1057
       height: 628
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 528.5, y: 314}
 =======
+=======
+>>>>>>> Stashed changes
       width: 886
       height: 591
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 443, y: 295.5}
+<<<<<<< Updated upstream
 >>>>>>> 2dEssentials
+=======
+>>>>>>> Stashed changes
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       x: -528.5
       y: -314
@@ -1478,6 +1577,8 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1057, y: 649}
 =======
+=======
+>>>>>>> Stashed changes
       x: -443
       y: -295.5
       width: 886
@@ -1485,7 +1586,10 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 886, y: 612}
+<<<<<<< Updated upstream
 >>>>>>> 2dEssentials
+=======
+>>>>>>> Stashed changes
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
